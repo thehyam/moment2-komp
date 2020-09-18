@@ -33,5 +33,5 @@ Sedan så sätts en watcher som 'lyssnar' på ifall det sker en förändring i n
 Sluligen sätts en default task som är en serie som då kör alla de angivna funktionerna parallellt (kopierar över filerna med eventuella förändringar från src-mappen till pub-mappen)
 
 ## Klona detta projekt
-För att klona detta projekt så används kommandot: $ git clone https://github.com/thehyam/moment2
+För att klona detta projekt så används kommandot: $ git clone https://github.com/thehyam/moment2-komp
 
